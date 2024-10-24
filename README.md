@@ -18,6 +18,5 @@ const virginia = {
   tools: [Styled-Components, Tailwind, Chakra-UI, Bootstrap, Storybook, Figma],
   expertise: ["animations", "component libraries", "UX/UI", "web accessibility"],
   passion: "Creating visually stunning and accessible web experiences",
-  studying: "Deepening my knowledge in UX/UI design and accessibility",
-  goal: "Move towards a more UX/UI-focused role in the near future"
+  studying: "Deepening my knowledge in UX/UI design",
 }
