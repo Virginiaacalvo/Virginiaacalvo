@@ -14,7 +14,7 @@ In the future, I aspire to work more closely in UX/UI design, applying my front-
 ```javascript
 const virginia = {
   pronouns: "she" | "her",
-  code: [Javascript, React, HTML, CSS],
+  code: [Javascript, React, Next.js, HTML, CSS],
   tools: [Styled-Components, Tailwind, Chakra-UI, Bootstrap, Storybook, Figma],
   expertise: ["animations", "component libraries", "UX/UI", "web accessibility"],
   passion: "Creating visually stunning and accessible web experiences",
