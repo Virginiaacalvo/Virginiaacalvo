@@ -7,7 +7,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Hi! I'm **Virginia Calvo**, but you can call me **Vir**—! I am a **Front End Developer** who loves creating **pixel-perfect** interfaces that not only look great but are also accessible to everyone. Recently, I've been diving deeper into the world of **UX/UI design** because I believe that great user experiences are the foundation of successful products.
+I am a **Front End Developer** who loves creating **pixel-perfect** interfaces that not only look great but are also accessible to everyone. Recently, I've been diving deeper into the world of **UX/UI design** because I believe that great user experiences are the foundation of successful products.
 
 In the future, I aspire to work more closely in UX/UI design, applying my front-end skills and creativity to craft seamless and intuitive interfaces.
 
