@@ -7,7 +7,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-I'm a **Front End Developer** passionate about creating **pixel-perfect** and **accessible** web interfaces that provide smooth and engaging user experiences. My expertise lies in building dynamic and responsive UIs with a strong focus on usability and performance.
+My expertise lies in building dynamic and responsive UIs with a strong focus on usability and performance.
 
 I'm always learning and expanding my skills in **front-end technologies**, with a particular interest in **CSS improvements**, **animations**, and the latest trends in **JavaScript frameworks**. Currently, I'm delving deeper into **UX/UI design** to strengthen the connection between the user experience and the technical side of web development.
 
