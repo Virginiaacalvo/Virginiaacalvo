@@ -1,4 +1,4 @@
-<h2> Hi, I'm Virginia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Virginia! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRrd3F1Nzh0YzFmeWczN3JkcGZva3hrNGxkOWYzbmV0dDVjNWFrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Me7PBESMDoWyzSN9M9/giphy.gif" width="50"></h2>
 <img align='right' src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM4dmZqeGt4YXd4OWtwZTdkeG05cW81eDZ2MG43NjhvanhpMHBidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.gif width="230">
 
 <p><em>Front End Developer passionate about <b>pixel-perfect</b> design, web accessibility, and seamless user experiences</em></p>
